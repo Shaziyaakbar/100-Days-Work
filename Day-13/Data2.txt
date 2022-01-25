@@ -1,0 +1,6 @@
+foobar
+fooabar
+fooebar
+fooxbar
+foogbar
+fookbar
